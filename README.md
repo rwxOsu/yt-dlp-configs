@@ -1,7 +1,7 @@
 # yt-dlp Configs
 My yt-dlp setup for downloading YouTube playlists an music. Note that some files are not config files, but plain commands.
 
-##Shell Commands
+## Shell Commands
 The following commands plain shell commands
 ### Crops the thumbnail to be quatratic and embeds it into the mp3 file
 ```
