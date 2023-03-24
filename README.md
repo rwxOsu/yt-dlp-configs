@@ -1,2 +1,2 @@
-# yt-dlp-configs
+# yt-dlp Configs
 My yt-dlp setup for downloading YouTube playlists. Note that some files are not config files, but plain commands.
