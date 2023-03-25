@@ -8,7 +8,7 @@ The following commands plain shell commands
 yt-dlp LINK -f bestaudio -x --audio-format mp3 --convert-thumbnail png --add-metadata --embed-thumbnail --ignore-config --audio-quality 0 --ppa "ffmpeg: -c:v mjpeg -vf crop=\"'if(gt(ih,iw),iw,ih)':'if(gt(iw,ih),ih,iw)'\""
 ```
 ### Find out the IDs of non available YouTube Videos
-This Command appends the IDs of not available YouTube-Videos to nichtverfuegbar.txt. Run this command after downloading your playlist with `--download-archive`
+This Command appends the IDs of not available YouTube-Videos to nichtverfuegbar.txt. Run this command after downloading your playlist with `--download-archive` at least once.
 If you want to seperate the individual runs, run first:
 ```
 echo ********************* >> nichtverfuegbar.txt
